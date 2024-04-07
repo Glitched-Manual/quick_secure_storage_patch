@@ -1,5 +1,9 @@
 # quick_secure_storage_patch
 
+Editor: `VS Code`
+
+## Create a new Flutter project
+
 
 ## Open a new terminal in VS Code
 
