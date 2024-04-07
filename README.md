@@ -4,6 +4,7 @@ Editor: `VS Code`
 
 ## Create a new Flutter project
 
+- If you already. Skip this step.
 
 ## Open a new terminal in VS Code
 
